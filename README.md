@@ -1,2 +1,12 @@
 # infsys_final_project
- Final project of Information System subject
+  Проектное задание по предмету Информационные системы
+ 
+Команда проекта
+| Роль | ФИО | Git username | HSE email |
+|------|-----|--------------|-----------|
+|------|Абрамов Данил Николаевич|https://github.com/users/RiskofStorm|daniabramov@edu.hse.ru|
+|      |     |              |           |
+|      |     |              |           |
+|      |     |              |           |
+|      |     |              |           |
+|      |     |              |           |
