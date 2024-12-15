@@ -5,7 +5,7 @@
 | Роль | ФИО | Git username | HSE email |
 |------|-----|--------------|-----------|
 |------|Абрамов Данил Николаевич|https://github.com/users/RiskofStorm|daniabramov@edu.hse.ru|
-|      |     |              |           |
+|      |Антипов Дмитрий Сергеевич|@glasgo-seven|dsantipov@@edu.hse.ru|
 |      |     |              |           |
 |      |     |              |           |
 |      |     |              |           |
