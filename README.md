@@ -7,6 +7,6 @@
 |------|Абрамов Данил Николаевич|https://github.com/users/RiskofStorm|daniabramov@edu.hse.ru|
 |      |Антипов Дмитрий Сергеевич|@glasgo-seven|dsantipov@@edu.hse.ru|
 |      |Глухова Юлия Викторовна|@Narasslabone|           |
-|      |     |              |           |
+|      |Дубровин Антон Романович     |@AntonDubrovin              |ardubrovin@edu.hse.ru           |
 |      |     |              |           |
 |      |     |              |           |
